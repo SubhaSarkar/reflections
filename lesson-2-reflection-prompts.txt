@@ -19,6 +19,7 @@ By showing me the structure .
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+I don't know , what type of question it this?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
